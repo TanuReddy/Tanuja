@@ -1,0 +1,57 @@
+{
+	"details":
+	{
+		"image":"images.jpg",
+		"name":"Tanuja",
+		"phoneno":"+91-9432098778",
+		"email":"tanujamarreddy8@gmail.com",
+		"address":"Vignans Nirula.Guntur"
+	},
+	"career":
+	{
+		"info":"Top Purse a challenging career and be passion"
+	},
+	"education":
+	[
+		{
+		"qualification":"Btech",
+		"Institute":"Vignan Nirula",
+		"year_of_passing":"2016-2020",
+		"percentage":"70"
+		},
+		{
+		"qualification":"intermidiate",
+		"Institute":"Narayana",
+		"year_of_passing":"2014-2016",
+		"percentage":"81"
+		},
+		{
+		"qualification":"SSC",
+		"Institute":"Siddjardha",
+		"year_of_passing":"2013-2014",
+		"percentage":"85"
+		}
+	],
+	"skill":
+	[
+		{
+		"title":"Programing languages",
+		"info":["C","C++","Python","Ruby"]
+		},
+		{
+			"title":"Databases",
+			"info":["oracle","SQL","MY SQL"]
+		},
+		{
+			"title":"Operating Systems",
+			"info":["Linux","Unix","Windows","MAC"]
+		}
+	],
+	"achivements":
+	[
+		{
+			"a1":"Runner in code cracking"
+
+		}
+	]
+}
